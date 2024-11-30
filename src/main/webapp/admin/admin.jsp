@@ -1,8 +1,8 @@
-<%@ page import="uz.pdp.demo5.db.DB" %>
-<%@ page import="uz.pdp.demo5.entity.Product" %>
-<%@ page import="uz.pdp.demo5.entity.Category" %>
+<%@ page import="uz.pdp.demo7.db.DB" %>
+<%@ page import="uz.pdp.demo7.entity.Product" %>
+<%@ page import="uz.pdp.demo7.entity.Category" %>
 <%@ page import="java.util.Objects" %>
-<%@ page import="uz.pdp.demo5.servlets.user.LoginServlet" %>
+<%@ page import="uz.pdp.demo7.servlets.user.LoginServlet" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
