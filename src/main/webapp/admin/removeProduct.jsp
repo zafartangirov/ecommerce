@@ -1,4 +1,4 @@
-<%@ page import="uz.pdp.demo5.db.DB" %>
+<%@ page import="uz.pdp.demo7.db.DB" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
